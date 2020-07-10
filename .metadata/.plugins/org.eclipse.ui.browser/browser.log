@@ -1,0 +1,524 @@
+
+5월 11, 2020 09:00:50.10 NEW SESSION
+5월 11, 2020 09:00:50.10 [3740:1492:0511/090050.103:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 11, 2020 09:57:12.05 [5024:4120:0511/095712.052:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 12, 2020 09:42:13.46 NEW SESSION
+5월 12, 2020 09:42:13.46 [5016:1792:0512/094213.459:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 12, 2020 17:24:54.33 NEW SESSION
+5월 12, 2020 17:24:54.33 [10356:9948:0512/172454.328:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 12, 2020 17:24:57.56 [10356:9900:0512/172457.560:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+5월 13, 2020 08:33:48.49 NEW SESSION
+5월 13, 2020 08:33:48.49 [16892:16784:0513/083348.491:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 08:38:17.18 [19116:19132:0513/083817.186:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 08:39:23.94 [19036:19016:0513/083923.947:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 08:47:44.68 [19036:8652:0513/084744.682:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 13, 2020 08:51:01.98 [16644:15796:0513/085101.980:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 08:52:14.00 [3592:15468:0513/085214.009:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 13, 2020 09:31:22.18 NEW SESSION
+5월 13, 2020 09:31:22.18 [6548:15932:0513/093122.178:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 09:31:24.00 [6548:19208:0513/093124.000:ERROR:get_updates_processor.cc(258)] PostClientToServerMessage() failed during GetUpdates with error 2
+5월 13, 2020 09:39:00.21 [360:17880:0513/093900.217:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 09:44:01.13 [8904:17436:0513/094401.132:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 10:05:53.42 [19008:18832:0513/100553.419:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 10:14:30.98 [5480:10124:0513/101430.988:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 10:19:35.08 [17236:8244:0513/101935.086:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 10:27:28.70 [9264:18468:0513/102728.701:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 10:44:55.64 [1876:8992:0513/104455.648:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 10:55:42.75 [2820:19464:0513/105542.754:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 11:01:37.47 [15664:5688:0513/110137.471:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 11:41:49.95 [15664:5872:0513/114149.958:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 13, 2020 11:42:00.27 [15552:19012:0513/114200.274:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 11:42:06.00 [19756:19684:0513/114205.999:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 11:42:32.23 [16812:9252:0513/114232.238:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 11:46:38.57 [21328:21400:0513/114638.578:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 11:48:57.57 [12308:7208:0513/114857.571:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 11:49:33.65 [21368:21204:0513/114933.659:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 11:55:28.38 [21436:20952:0513/115528.383:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 13, 2020 12:35:05.82 [21436:17532:0513/123505.827:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 13, 2020 12:35:32.81 [21436:17532:0513/123532.818:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 13, 2020 13:17:07.89 [21436:20952:0513/131707.890:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 13, 2020 13:22:37.24 [21436:20952:0513/132237.240:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 13, 2020 14:00:06.03 [21436:20952:0513/140006.032:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 13, 2020 15:13:38.97 [21436:17532:0513/151338.978:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+5월 13, 2020 16:38:33.95 [21436:17532:0513/163833.953:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+
+5월 14, 2020 01:11:30.59 NEW SESSION
+5월 14, 2020 01:11:30.59 [16488:16628:0514/011130.593:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 14, 2020 01:25:03.21 [4908:3700:0514/012503.210:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 14, 2020 01:25:14.07 [4908:3700:0514/012514.073:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 14, 2020 02:21:18.23 [4908:3700:0514/022118.234:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+5월 14, 2020 08:37:25.50 NEW SESSION
+5월 14, 2020 08:37:25.50 [5824:5832:0514/083725.502:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 14, 2020 08:39:16.77 NEW SESSION
+5월 14, 2020 08:39:16.77 [712:7640:0514/083916.767:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 14, 2020 09:23:38.14 NEW SESSION
+5월 14, 2020 09:23:38.14 [11048:10460:0514/092338.138:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 14, 2020 15:30:11.80 NEW SESSION
+5월 14, 2020 15:30:11.80 [18428:9336:0514/153011.798:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 14, 2020 16:42:35.07 [18428:7688:0514/164235.078:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+5월 15, 2020 08:42:43.63 NEW SESSION
+5월 15, 2020 08:42:43.63 [16072:16996:0515/084243.630:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 08:44:31.66 [15304:17344:0515/084431.661:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 09:07:46.99 [9488:17984:0515/090746.991:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 10:13:33.47 [11332:16636:0515/101333.474:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 10:13:54.19 [5652:18060:0515/101354.198:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 15, 2020 10:29:48.77 NEW SESSION
+5월 15, 2020 10:29:48.78 [18900:10812:0515/102948.778:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 10:40:10.67 [10808:6816:0515/104010.674:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 10:42:22.11 [10568:19000:0515/104222.116:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 15, 2020 14:39:01.58 NEW SESSION
+5월 15, 2020 14:39:01.58 [22020:11996:0515/143901.565:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 14:47:25.27 [23120:27564:0515/144725.278:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 14:49:32.96 [25528:19996:0515/144932.961:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 15:13:10.64 [6892:18020:0515/151310.642:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 15:20:00.52 [11848:23364:0515/152000.524:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 15:26:56.41 [1604:23128:0515/152656.413:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 15:40:06.26 [6088:22836:0515/154006.265:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 15:41:38.28 [19260:25432:0515/154138.288:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 15:42:41.39 [19636:12772:0515/154241.391:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 15:43:27.19 [9368:24068:0515/154327.198:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 16:19:37.94 [22980:27352:0515/161937.949:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 15, 2020 16:21:51.07 NEW SESSION
+5월 15, 2020 16:21:51.07 [14600:26812:0515/162151.068:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 16:22:22.20 [6780:25524:0515/162222.204:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 16:22:34.91 [16264:22372:0515/162234.913:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 16:22:54.10 [15316:6028:0515/162254.101:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 15, 2020 16:26:22.10 NEW SESSION
+5월 15, 2020 16:26:22.10 [15372:15376:0515/162622.101:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 16:26:45.63 [16956:16952:0515/162645.629:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 16:27:50.63 [15472:15468:0515/162750.630:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 15, 2020 16:34:27.38 [15472:15468:0515/163427.385:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+5월 17, 2020 14:21:07.63 NEW SESSION
+5월 17, 2020 14:21:07.63 [9808:5276:0517/142107.635:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 17, 2020 14:39:18.90 [9808:5276:0517/143918.900:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 17, 2020 14:45:21.30 [9808:5276:0517/144521.304:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 17, 2020 14:50:52.15 [9808:5276:0517/145052.156:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 17, 2020 15:10:21.23 [9808:5276:0517/151021.238:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 17, 2020 17:04:59.84 [9808:5276:0517/170459.843:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 17, 2020 17:40:47.85 [9808:5276:0517/174047.857:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+5월 18, 2020 10:36:30.87 NEW SESSION
+5월 18, 2020 10:36:30.87 [14440:20416:0518/103630.867:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 18, 2020 10:41:04.99 [2096:18524:0518/104104.992:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 18, 2020 11:28:14.94 [2096:18524:0518/112814.946:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 18, 2020 11:30:14.14 [22032:19344:0518/113014.148:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 18, 2020 11:33:41.82 [22168:15808:0518/113341.827:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 18, 2020 11:35:48.35 [19620:16184:0518/113548.357:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 18, 2020 11:44:33.16 [19392:19660:0518/114433.165:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 18, 2020 11:45:48.77 [19392:19660:0518/114548.772:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 18, 2020 11:47:46.79 [12748:13228:0518/114746.790:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 18, 2020 11:48:03.05 [12748:13228:0518/114803.050:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 18, 2020 15:50:26.87 [12748:13228:0518/155026.877:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 18, 2020 16:49:11.13 [16932:11296:0518/164911.131:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 18, 2020 16:50:38.70 [20904:16260:0518/165038.705:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 18, 2020 16:50:55.86 [7080:20220:0518/165055.866:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 18, 2020 19:41:46.53 NEW SESSION
+5월 18, 2020 19:41:46.53 [4600:15364:0518/194146.536:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 18, 2020 20:13:04.56 [16912:17072:0518/201304.561:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 18, 2020 20:13:54.42 [932:9060:0518/201354.425:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 18, 2020 20:14:19.87 [14488:8632:0518/201419.875:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 18, 2020 20:34:29.50 [17400:8004:0518/203429.509:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 18, 2020 20:46:59.88 [17400:8004:0518/204659.880:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 18, 2020 20:47:24.85 [17400:8004:0518/204724.857:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+5월 19, 2020 08:30:50.10 NEW SESSION
+5월 19, 2020 08:30:50.10 [16140:16136:0519/083050.101:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 08:48:07.08 [2572:168:0519/084807.081:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 09:38:13.29 [16076:17456:0519/093813.295:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 09:38:52.14 [12908:9492:0519/093852.145:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 09:43:40.06 [15816:11720:0519/094340.067:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 09:57:16.40 [9716:20424:0519/095716.407:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 09:57:47.67 [18772:17636:0519/095747.672:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 10:02:56.02 [20136:10440:0519/100256.028:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 10:03:35.51 [20028:20340:0519/100335.518:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 10:04:30.63 [18440:11068:0519/100430.634:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 10:04:43.07 [15088:18864:0519/100443.078:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 11:08:57.83 [4480:11388:0519/110857.838:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 11:21:35.04 [19544:8256:0519/112135.040:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 11:23:19.40 [3120:15004:0519/112319.409:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 11:23:44.05 [9280:5484:0519/112344.055:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 11:24:14.92 [19568:16792:0519/112414.924:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 11:24:55.65 [11008:19664:0519/112455.653:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 11:35:04.23 [3436:10884:0519/113504.232:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 11:38:13.69 [19140:19000:0519/113813.692:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 11:53:23.02 [3476:14608:0519/115323.022:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 12:30:26.10 [18316:8100:0519/123026.099:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 12:31:00.19 [18972:19764:0519/123100.194:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 19, 2020 15:06:26.31 NEW SESSION
+5월 19, 2020 15:06:26.31 [20124:20528:0519/150626.312:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 15:23:52.87 [14568:12752:0519/152352.873:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 15:26:49.84 [20668:12944:0519/152649.847:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 15:38:08.53 [12096:20812:0519/153808.536:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 16:05:03.14 [3508:21428:0519/160503.145:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 16:06:49.70 [19120:20452:0519/160649.703:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 19, 2020 16:11:44.74 [20404:7772:0519/161144.739:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 19, 2020 18:04:44.29 NEW SESSION
+5월 19, 2020 18:04:44.29 [11780:9424:0519/180444.295:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 20, 2020 09:53:44.37 NEW SESSION
+5월 20, 2020 09:53:44.37 [18140:3652:0520/095344.374:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 11:04:00.08 [19316:14908:0520/110400.085:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 11:04:56.05 [16160:11396:0520/110456.052:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 11:10:12.47 [15096:7860:0520/111012.472:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 11:11:08.33 [9912:2724:0520/111108.331:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 11:12:32.32 [13180:5468:0520/111232.327:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 11:12:56.02 [8184:18132:0520/111256.020:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 11:13:02.41 [18520:18272:0520/111302.417:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 11:20:05.68 [2656:17528:0520/112005.682:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 11:26:13.52 [4056:19232:0520/112613.529:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 11:27:21.71 [14932:18532:0520/112721.711:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 11:51:27.08 [5220:16940:0520/115127.080:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 11:53:05.54 [19104:1564:0520/115305.541:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 11:55:09.59 [13356:18456:0520/115509.590:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 11:55:28.92 [2832:17792:0520/115528.920:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 11:56:09.12 [19124:18400:0520/115609.121:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 12:58:54.78 [19124:18400:0520/125854.783:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 20, 2020 13:59:47.81 [19124:18400:0520/135947.817:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 20, 2020 15:25:09.39 [20400:2616:0520/152509.397:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 15:37:48.42 [17076:3220:0520/153748.423:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 15:59:54.71 [16444:18428:0520/155954.719:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 20, 2020 16:17:47.54 NEW SESSION
+5월 20, 2020 16:17:47.54 [9504:2748:0520/161747.544:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 16:18:20.73 [17632:16792:0520/161820.733:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 20, 2020 16:23:13.92 [19684:16064:0520/162313.927:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 21, 2020 08:34:06.78 NEW SESSION
+5월 21, 2020 08:34:06.78 [18372:17280:0521/083406.787:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 09:20:52.34 [3584:17704:0521/092052.341:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 21, 2020 09:57:49.05 NEW SESSION
+5월 21, 2020 09:57:49.05 [16796:16260:0521/095749.051:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 09:59:53.10 [14572:14880:0521/095953.107:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 10:18:49.80 [15540:15144:0521/101849.805:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 10:38:24.78 [2116:19216:0521/103824.780:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 10:40:33.91 [12764:6176:0521/104033.915:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 10:48:58.54 [17888:18448:0521/104858.545:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 10:58:27.79 [18212:19120:0521/105827.792:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 10:59:34.32 [6500:14808:0521/105934.324:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 11:00:43.69 [1496:9584:0521/110043.697:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 11:26:34.63 [10372:2324:0521/112634.638:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 13:22:50.23 [12772:17364:0521/132250.238:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 13:47:07.58 [16260:16376:0521/134707.586:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 13:51:02.26 [2596:8728:0521/135102.260:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 14:31:31.09 [19340:388:0521/143131.096:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 14:33:01.55 [12248:3732:0521/143301.555:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 14:34:03.04 [17272:2756:0521/143403.044:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 14:46:48.00 [3804:17568:0521/144648.002:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 14:56:02.35 [11552:15052:0521/145602.354:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 14:56:31.58 [17572:10660:0521/145631.581:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 14:57:05.95 [8868:1368:0521/145705.959:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 15:30:46.25 [18048:4452:0521/153046.255:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 15:32:41.07 [8792:17768:0521/153241.072:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 15:36:51.15 [19248:13616:0521/153651.154:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 15:38:17.50 [15900:7764:0521/153817.505:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 15:41:29.94 [9996:9936:0521/154129.941:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 21, 2020 15:43:17.23 NEW SESSION
+5월 21, 2020 15:43:17.23 [4452:3580:0521/154317.229:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 21, 2020 15:43:47.24 [13584:11220:0521/154347.242:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 21, 2020 23:20:47.13 NEW SESSION
+5월 21, 2020 23:20:47.13 [8736:16724:0521/232047.128:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 22, 2020 15:50:49.25 NEW SESSION
+5월 22, 2020 15:50:49.26 [22376:14756:0522/155049.244:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 22, 2020 16:24:00.04 [6924:15552:0522/162400.043:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 22, 2020 16:32:56.33 [6576:16896:0522/163256.329:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 22, 2020 16:46:59.48 [21132:21668:0522/164659.485:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 24, 2020 13:21:58.73 NEW SESSION
+5월 24, 2020 13:21:58.73 [17844:16396:0524/132158.736:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 13:22:03.64 [17844:16700:0524/132203.642:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 13:22:30.32 [17844:16700:0524/132230.326:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 13:23:28.92 [17844:16700:0524/132328.926:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 13:25:51.65 [17844:16700:0524/132551.652:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+5월 24, 2020 13:30:23.45 [19404:17292:0524/133023.457:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 13:31:35.27 [16300:15612:0524/133135.270:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 13:34:56.13 [16300:15500:0524/133456.131:ERROR:socket_stream.cc(218)] Closing stream with result -2
+5월 24, 2020 13:35:25.69 [19424:10808:0524/133525.693:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 13:37:43.37 [19424:9468:0524/133743.371:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 13:37:55.07 [19424:9468:0524/133755.075:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+5월 24, 2020 13:38:50.55 [3780:16244:0524/133850.549:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 13:40:29.24 [17164:1336:0524/134029.245:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 13:43:01.77 [19156:7440:0524/134301.779:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 14:01:10.91 [17780:15240:0524/140110.918:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 14:01:16.24 [19236:17112:0524/140116.242:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 14:03:55.37 [19236:15344:0524/140355.376:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:04:23.01 [19236:15344:0524/140423.011:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:09:54.59 [19236:15344:0524/140954.590:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -118
+5월 24, 2020 14:10:05.08 [19236:15344:0524/141005.088:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+5월 24, 2020 14:11:05.46 [19236:15344:0524/141105.461:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:11:50.15 [19236:15344:0524/141150.149:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:12:12.44 [19236:15344:0524/141212.439:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:12:55.95 [19236:15344:0524/141255.954:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:14:39.48 [19236:15344:0524/141439.487:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:15:13.30 [19236:15344:0524/141513.307:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:15:42.86 [19236:15344:0524/141542.866:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:16:41.86 [7512:14732:0524/141641.865:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 14:16:45.47 [7512:15092:0524/141645.478:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:17:06.82 [7512:15092:0524/141706.826:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:17:48.67 [7512:15092:0524/141748.672:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:19:29.50 [7512:15092:0524/141929.504:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:23:20.39 [7512:15092:0524/142320.390:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:25:33.16 [7512:15092:0524/142533.164:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:35:33.16 [7512:15092:0524/143533.166:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 14:40:50.43 [7512:15092:0524/144050.431:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 15:21:15.23 [3500:8592:0524/152115.238:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 15:24:44.36 [17624:12936:0524/152444.365:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 15:25:09.93 [17624:12936:0524/152509.931:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 24, 2020 15:26:23.72 [12196:16144:0524/152623.729:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 15:27:24.33 [17512:15496:0524/152724.337:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 15:33:31.46 [16996:16904:0524/153331.469:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 15:33:58.64 [1616:17964:0524/153358.641:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 15:35:47.74 [1412:12376:0524/153547.741:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 15:40:18.83 [5164:17024:0524/154018.831:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 15:45:49.33 [16772:18448:0524/154549.337:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 15:57:48.10 [19000:16076:0524/155748.105:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 16:33:23.12 [19000:8764:0524/163323.124:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+5월 24, 2020 16:43:53.02 [11468:18248:0524/164353.028:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 16:44:55.32 [2132:16528:0524/164455.322:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 16:47:39.80 [15304:14852:0524/164739.808:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 16:50:49.66 [15304:17616:0524/165049.660:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 16:51:11.85 [15304:17616:0524/165111.851:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 16:52:01.57 [15304:17616:0524/165201.571:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 16:53:58.93 [15304:17616:0524/165358.938:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 17:03:47.58 [15304:17616:0524/170347.587:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 17:04:13.34 [15304:17616:0524/170413.340:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 24, 2020 17:12:08.86 [15304:14852:0524/171208.867:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 24, 2020 17:16:52.52 [17264:19608:0524/171652.525:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 17:18:01.23 [20240:20236:0524/171801.237:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 17:20:27.56 [19080:5396:0524/172027.562:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 17:21:25.18 [20384:17012:0524/172125.189:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 17:28:03.43 [15212:17356:0524/172803.435:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 24, 2020 18:01:16.14 NEW SESSION
+5월 24, 2020 18:01:16.14 [5528:16452:0524/180116.139:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 24, 2020 18:52:00.66 [5528:20328:0524/185200.666:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+5월 27, 2020 18:22:09.82 NEW SESSION
+5월 27, 2020 18:22:09.82 [15652:15656:0527/182209.827:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 27, 2020 18:35:25.12 [18272:17664:0527/183525.120:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 27, 2020 18:43:58.12 [1708:1576:0527/184358.129:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 27, 2020 18:44:21.78 [5344:17520:0527/184421.787:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 27, 2020 18:45:41.69 [18304:17252:0527/184541.691:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 27, 2020 18:48:29.00 NEW SESSION
+5월 27, 2020 18:48:29.00 [17660:15812:0527/184829.002:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 27, 2020 18:58:11.12 [17660:15812:0527/185811.122:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 27, 2020 18:58:25.44 [12012:3672:0527/185825.446:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 27, 2020 19:10:49.26 [12012:3672:0527/191049.261:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 27, 2020 20:09:27.08 [12012:3672:0527/200927.084:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 27, 2020 20:15:30.67 [12012:15764:0527/201530.676:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 27, 2020 20:21:14.79 [12012:3672:0527/202114.798:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 27, 2020 21:29:48.60 [20996:4828:0527/212948.606:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 27, 2020 21:31:18.31 [5924:6208:0527/213118.313:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 27, 2020 21:41:10.36 [17032:20680:0527/214110.363:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 27, 2020 21:47:37.53 NEW SESSION
+5월 27, 2020 21:47:37.53 [19284:17480:0527/214737.537:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 27, 2020 22:07:35.41 [19284:17480:0527/220735.418:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 27, 2020 22:11:43.68 [5412:11608:0527/221143.683:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 29, 2020 17:11:01.73 NEW SESSION
+5월 29, 2020 17:11:01.73 [16784:16764:0529/171101.730:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 29, 2020 17:13:27.84 [16784:16764:0529/171327.844:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 29, 2020 17:16:06.52 [16784:16764:0529/171606.523:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 29, 2020 17:19:52.92 [16784:16764:0529/171952.926:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 29, 2020 17:23:58.70 [16784:12088:0529/172358.700:ERROR:socket_stream.cc(218)] Closing stream with result -2
+5월 29, 2020 17:26:02.52 [16424:4764:0529/172602.527:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 29, 2020 17:31:48.92 [16584:8988:0529/173148.924:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 29, 2020 17:36:14.52 [18112:18120:0529/173614.526:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 29, 2020 17:39:58.13 [18112:18120:0529/173958.135:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 29, 2020 17:57:44.91 [18112:18120:0529/175744.910:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 29, 2020 18:24:52.11 [15820:3524:0529/182452.115:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 29, 2020 18:26:26.81 [13228:492:0529/182626.810:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 29, 2020 18:28:44.10 [13228:492:0529/182844.104:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 29, 2020 19:22:29.35 [9736:16244:0529/192229.349:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 29, 2020 19:23:57.54 [9736:16244:0529/192357.539:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+5월 29, 2020 19:46:40.14 NEW SESSION
+5월 29, 2020 19:46:40.14 [19136:5056:0529/194640.144:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 29, 2020 19:47:38.09 [15472:9680:0529/194738.098:ERROR:browser_switcher_service.cc(238)] XXX Init()
+5월 29, 2020 19:58:25.81 [2644:20056:0529/195825.819:ERROR:browser_switcher_service.cc(238)] XXX Init()
+
+5월 30, 2020 19:56:29.83 NEW SESSION
+5월 30, 2020 19:56:29.83 [8372:8152:0530/195629.822:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+5월 30, 2020 20:11:49.39 NEW SESSION
+5월 30, 2020 20:11:49.39 [22304:18840:0530/201149.390:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+5월 31, 2020 24:08:31.01 NEW SESSION
+5월 31, 2020 24:08:31.01 [18560:17664:0531/000831.010:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 31, 2020 24:11:44.68 [18560:17664:0531/001144.684:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+5월 31, 2020 15:45:02.72 NEW SESSION
+5월 31, 2020 15:45:02.72 [16744:15916:0531/154502.721:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 31, 2020 15:45:23.33 [16744:15916:0531/154523.334:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 31, 2020 15:46:10.41 [16744:15916:0531/154610.413:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 31, 2020 15:47:53.59 [16744:15916:0531/154753.597:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 31, 2020 15:51:08.05 [16744:15916:0531/155108.053:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 31, 2020 15:51:25.94 [17488:16092:0531/155125.948:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 31, 2020 15:51:47.59 [17488:16092:0531/155147.597:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 31, 2020 15:52:31.29 [17488:16092:0531/155231.297:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 31, 2020 16:28:59.93 [17876:16828:0531/162859.938:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+5월 31, 2020 16:54:58.82 [7164:6180:0531/165458.822:ERROR:socket_stream.cc(218)] Closing stream with result -2
+5월 31, 2020 16:59:29.59 [2824:17076:0531/165929.589:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+5월 31, 2020 17:10:10.43 [19188:19272:0531/171010.436:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 31, 2020 17:10:37.88 [19188:19272:0531/171037.881:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 31, 2020 17:11:32.58 [19188:19272:0531/171132.588:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 31, 2020 18:14:33.74 [15868:15856:0531/181433.740:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 31, 2020 18:54:11.09 [4104:12444:0531/185411.093:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -118
+
+5월 31, 2020 18:54:36.72 NEW SESSION
+5월 31, 2020 18:54:36.72 [19272:2860:0531/185436.719:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+5월 31, 2020 18:55:02.12 [19272:2860:0531/185502.120:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+6월 01, 2020 10:32:14.56 NEW SESSION
+6월 01, 2020 10:32:14.56 [16252:13188:0601/103214.553:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 01, 2020 10:32:52.19 [16252:13188:0601/103252.191:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+6월 01, 2020 15:36:02.86 NEW SESSION
+6월 01, 2020 15:36:02.86 [19584:4056:0601/153602.859:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 01, 2020 15:38:31.82 [19584:4056:0601/153831.822:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 01, 2020 15:44:11.80 [19584:4056:0601/154411.807:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+6월 01, 2020 21:23:59.22 NEW SESSION
+6월 01, 2020 21:23:59.22 [18900:1700:0601/212359.225:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+6월 02, 2020 08:34:16.83 NEW SESSION
+6월 02, 2020 08:34:16.83 [16912:16928:0602/083416.828:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 02, 2020 11:51:37.50 [16912:16928:0602/115137.501:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+6월 03, 2020 09:34:56.26 NEW SESSION
+6월 03, 2020 09:34:56.26 [14648:11108:0603/093456.254:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 03, 2020 10:00:51.48 [12020:17668:0603/100051.480:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 03, 2020 11:46:04.11 [12576:16728:0603/114604.115:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 03, 2020 12:43:51.92 [12576:16728:0603/124351.922:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 03, 2020 13:21:35.29 [12576:16728:0603/132135.296:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 03, 2020 15:05:36.54 [12576:14976:0603/150536.545:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+6월 03, 2020 15:05:38.73 [12576:14976:0603/150538.737:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 03, 2020 15:06:28.81 [12576:14976:0603/150628.810:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+6월 04, 2020 08:45:18.28 NEW SESSION
+6월 04, 2020 08:45:18.28 [15876:2828:0604/084518.275:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+6월 04, 2020 12:56:37.80 NEW SESSION
+6월 04, 2020 12:56:37.80 [5912:6672:0604/125637.799:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 04, 2020 12:56:41.58 [5912:6672:0604/125641.584:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.906 s for first_image_paint 0.872 s
+6월 04, 2020 12:56:42.61 [5912:6672:0604/125642.610:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.906 s for first_image_paint 0.872 s
+6월 04, 2020 12:57:05.66 [5912:6672:0604/125705.666:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.906 s for first_image_paint 0.872 s
+6월 04, 2020 14:22:41.81 [22308:22432:0604/142241.812:ERROR:mcs_client.cc(706)]   Error code: 500  Error message: Cannot parse data.
+6월 04, 2020 14:22:41.82 [22308:22432:0604/142241.812:ERROR:mcs_client.cc(708)] Failed to log in to GCM, resetting connection.
+
+6월 07, 2020 14:34:30.28 NEW SESSION
+6월 07, 2020 14:34:30.28 [11116:13732:0607/143430.281:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 07, 2020 14:34:55.60 [11116:13732:0607/143455.601:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 07, 2020 14:35:24.17 [17588:18780:0607/143524.173:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 07, 2020 14:35:48.71 [17588:18780:0607/143548.714:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 07, 2020 14:48:06.57 [17588:18780:0607/144806.575:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 07, 2020 18:07:04.01 [5216:18364:0607/180704.018:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 07, 2020 18:08:18.32 [5216:18364:0607/180818.328:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+6월 08, 2020 15:57:40.55 NEW SESSION
+6월 08, 2020 15:57:40.55 [14016:22404:0608/155740.556:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 08, 2020 16:42:39.89 [25400:15680:0608/164239.898:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 08, 2020 16:49:08.65 [25400:15680:0608/164908.654:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+6월 09, 2020 09:11:58.60 NEW SESSION
+6월 09, 2020 09:11:58.60 [16836:16904:0609/091158.602:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 09, 2020 13:28:33.83 [17144:21244:0609/132833.830:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+6월 10, 2020 10:32:23.31 NEW SESSION
+6월 10, 2020 10:32:23.31 [17004:17008:0610/103223.308:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 10, 2020 13:21:07.16 [17004:17124:0610/132107.168:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+6월 10, 2020 13:21:09.35 [17004:17124:0610/132109.358:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 10, 2020 13:21:50.88 [17004:17124:0610/132150.888:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 10, 2020 14:14:54.51 [17004:17008:0610/141454.515:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+6월 11, 2020 11:21:15.74 NEW SESSION
+6월 11, 2020 11:21:15.74 [19328:9556:0611/112115.741:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+6월 12, 2020 09:04:04.33 NEW SESSION
+6월 12, 2020 09:04:04.33 [16788:19760:0612/090404.327:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 12, 2020 09:19:14.53 [16788:19760:0612/091914.534:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 12, 2020 10:04:26.77 [16788:19760:0612/100426.775:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 12, 2020 16:12:40.81 [16788:19760:0612/161240.817:ERROR:CONSOLE(1475)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1475)
+6월 12, 2020 16:12:42.32 [16788:19760:0612/161242.328:ERROR:CONSOLE(1475)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1475)
+
+6월 15, 2020 16:38:41.82 NEW SESSION
+6월 15, 2020 16:38:41.82 [17708:17712:0615/163841.816:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+6월 16, 2020 09:15:51.28 NEW SESSION
+6월 16, 2020 09:15:51.28 [5720:11876:0616/091551.283:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 16, 2020 09:39:58.38 [9028:8688:0616/093958.387:ERROR:CONSOLE(1917)] "Connection is closed, can't dispatch pending call", source: devtools://devtools/bundled/sdk/sdk.js (1917)
+6월 16, 2020 09:41:15.53 [9028:8688:0616/094115.534:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 16, 2020 09:47:57.71 [9028:8688:0616/094757.714:ERROR:CONSOLE(1475)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1475)
+6월 16, 2020 11:06:59.21 [9028:8688:0616/110659.212:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 16, 2020 11:41:55.47 [16964:15404:0616/114155.478:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 16, 2020 11:51:56.00 [16964:15404:0616/115156.004:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 16, 2020 13:08:33.39 [16964:10080:0616/130833.395:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+6월 16, 2020 13:08:35.57 [16964:10080:0616/130835.570:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 16, 2020 13:09:31.71 [16964:10080:0616/130931.714:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+6월 16, 2020 14:50:59.44 NEW SESSION
+6월 16, 2020 14:50:59.44 [5768:18868:0616/145059.438:ERROR:CONSOLE(1475)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1475)
+6월 16, 2020 14:51:28.10 [5768:18868:0616/145128.099:ERROR:CONSOLE(1475)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1475)
+6월 16, 2020 15:21:47.90 [20104:15172:0616/152147.902:ERROR:CONSOLE(1917)] "Connection is closed, can't dispatch pending call", source: devtools://devtools/bundled/sdk/sdk.js (1917)
+
+6월 17, 2020 12:58:34.87 NEW SESSION
+6월 17, 2020 12:58:34.87 [10740:11956:0617/125834.868:ERROR:CONSOLE(1475)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1475)
+6월 17, 2020 13:24:13.41 [18460:4704:0617/132413.411:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 17, 2020 13:31:23.20 [18596:17956:0617/133123.202:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+6월 17, 2020 14:18:07.65 NEW SESSION
+6월 17, 2020 14:18:07.65 [16452:7392:0617/141807.656:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 17, 2020 16:39:37.42 [18240:15388:0617/163937.426:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+6월 17, 2020 17:28:34.23 [4204:16412:0617/172834.231:ERROR:CONSOLE(1475)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1475)
+6월 17, 2020 17:28:35.31 [4204:16412:0617/172835.318:ERROR:CONSOLE(1475)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1475)
+6월 17, 2020 17:28:36.22 [4204:16412:0617/172836.227:ERROR:CONSOLE(1917)] "Connection is closed, can't dispatch pending call", source: devtools://devtools/bundled/sdk/sdk.js (1917)
+
+6월 17, 2020 18:12:08.89 NEW SESSION
+6월 17, 2020 18:12:08.89 [14912:4948:0617/181208.891:ERROR:CONSOLE(1475)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1475)
+
+6월 18, 2020 09:39:39.21 NEW SESSION
+6월 18, 2020 09:39:39.21 [1988:12416:0618/093939.213:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 18, 2020 10:03:48.12 [1988:12416:0618/100348.122:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 18, 2020 14:03:19.28 [1988:9552:0618/140319.278:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+6월 18, 2020 14:03:21.45 [1988:9552:0618/140321.456:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 18, 2020 14:04:20.28 [1988:9552:0618/140420.279:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 18, 2020 14:20:29.50 [1988:9552:0618/142029.500:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 18, 2020 14:20:50.38 [1988:9552:0618/142050.389:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 18, 2020 14:21:45.02 [1988:9552:0618/142145.027:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 18, 2020 14:23:35.61 [1988:9552:0618/142335.611:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+6월 18, 2020 14:41:39.66 [1988:12416:0618/144139.660:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+6월 18, 2020 17:37:04.37 NEW SESSION
+6월 18, 2020 17:37:04.37 [15800:1744:0618/173704.368:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+6월 18, 2020 18:03:13.46 NEW SESSION
+6월 18, 2020 18:03:13.46 [17008:5944:0618/180313.467:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+
+6월 19, 2020 09:07:17.98 NEW SESSION
+6월 19, 2020 09:07:17.98 [16696:16764:0619/090717.982:ERROR:CONSOLE(1475)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1475)
+6월 19, 2020 09:07:18.31 [16696:16764:0619/090718.315:ERROR:CONSOLE(1475)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1475)
+6월 19, 2020 09:14:04.25 [18044:18036:0619/091404.256:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=ko&gm= (0)
+6월 19, 2020 10:59:38.06 [18044:18036:0619/105938.062:ERROR:CONSOLE(1475)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1475)
+6월 19, 2020 10:59:38.88 [18044:18036:0619/105938.882:ERROR:CONSOLE(1475)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1475)

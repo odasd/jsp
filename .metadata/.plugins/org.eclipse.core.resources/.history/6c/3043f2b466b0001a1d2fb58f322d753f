@@ -1,0 +1,8 @@
+package sell_record;
+
+import product.ProductVO;
+
+public class RecordVO extends ProductVO {
+	
+	private String 
+}

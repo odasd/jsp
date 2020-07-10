@@ -1,0 +1,30 @@
+@charset "UTF-8";
+	body {background:#eaffe0; }
+	#page {width:980px; background:white; box-shadow:10px 10px 10px #222;; margin:auto; padding:30px; border:5px solid #222; border-radius:5px;}
+	#header h1, #footer h5 {text-align:center; background:#222; color:#eae4eb;}
+	#center {/* width:880px; */overflow:hidden;border:1px solid black;margin:auto;}
+	#menu {float:left; width:200px; text-align:center; border-right:1px solid black; margin:auto; border-bottom:1px solid black; background:#222;}
+	#content {float:left;width:600px;padding:30px;}
+	.item {height:50px;} 
+	.item a{text-decoration:none; color:#eae4eb; padding:10px;} 
+	.item a:hover{color:white; background:#dd3e54;} 
+	table {border:1px solid black; margin:auto;}
+	/*.title {background:linear-gradient( to right, #fffbd5, #b20a2c); color:black;}*/
+	.row:hover {background:linear-gradient( to bottom, #654ea3, #eaafc8); color:white;}
+	td, th {height:30px;}
+	.number {text-align:right;}
+	.center {text-align:center;}
+	.left {text-align:left;}
+	.right {text-align:right;}
+	select {height:23px;}
+	#search {margin-bottom:5px;}
+	#pagenation {margin-top:10px;}
+	button {float:left;}
+	#sort {padding-bottom:10px;}
+	#menu .login  {width:180px; border:1px solid black; padding:5px; margin:10px 0px 20px 5px; background:#ffeaea;}
+	#dd a {text-decoration:none;}
+	#menu .logout {width:180px; border:1px solid black; padding:5px; margin:10px 0px 20px 5px; background:#ffeaea;}
+	#id {color:#222;}
+	#pass {color:#222;}
+	.title {background:#acb0e4;}
+	

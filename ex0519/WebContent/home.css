@@ -1,0 +1,20 @@
+@charset "UTF-8";
+	body {background:linear-gradient( to right, #355C7D, #6C5B7B, #C06C84); }
+	#page {width:980px; background:linear-gradient( to right, #FEAC5E, #C779D0, #4BC0C8); box-shadow:10px 10px 10px #8f94fb; margin:auto; padding:30px; border:5px double #ff5e62; border-radius:5px;}
+	#header h1, #footer h5 {text-align:center;}
+	#center {width:880px; overflow:hidden; border:1px solid black; margin:auto;}
+	#menu {float:left; width:200px; text-align:center;}
+	#content {float:left; width:600px; border-left:1px solid black; padding:30px;}
+	.item {height:50px; margin:20px;} 
+	.item a{text-decoration:none; color:black; padding:10px;} 
+	.item a:hover{color:white; background:#dd3e54;} 
+	table {border:1px solid black; margin:auto;}
+	.title {background:linear-gradient( to right, #fffbd5, #b20a2c); color:black;}
+	.row:hover {background:linear-gradient( to bottom, #654ea3, #eaafc8); color:white;}
+	td, th {height:30px;}
+	.number {text-align:right;}
+	.center {text-align:center;}
+	.left {text-align:left;}
+	select {height:23px;}
+	#search {margin-bottom:5px;}
+	#pagenation {margin-top:10px;}
